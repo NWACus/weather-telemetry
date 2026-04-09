@@ -28,5 +28,11 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.idea/
+.vscode/
+
+# Data dump from NWAC weather stations
+teldata/
+
+# Embedded PostgreSQL contents
+pg_data/weather-telemetry
